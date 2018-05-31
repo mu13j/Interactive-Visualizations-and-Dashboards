@@ -1,5 +1,5 @@
 Flask==0.12.2
 Flask-SQLAlchemy==2.2
-SQLAlchemy==1.1.13
-Pandas==1.11.0
+SQLAlchemy==1.2.6
+Pandas==0.22
 Numpy==1.14.0
